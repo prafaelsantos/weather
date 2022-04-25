@@ -13,7 +13,7 @@
   <img alt="Demo" src=".github/previsao-tempo.png" width="100%">
 </p>
 
-## Tecnologias
+## Demo
 <a href="https://6265f4b0e9167a1d9e0dc503--curious-cannoli-525a80.netlify.app" target="_blank">Ver Demo</a>
 
 ## Tecnologias
